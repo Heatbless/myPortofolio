@@ -80,12 +80,12 @@ params:
   socialIcons:
     - name: LinkedIn
       url: "https://www.linkedin.com/in/mickhael-niklas-7398912b2/"
-    # - name: StackOverflow
-    #   url: "https://stackoverflow.com"
+    - name: YouTube
+      url: "https://youtube.com/@heatbless"
     - name: github
       url: "https://github.com/Heatbless"
-    - name: Discord
-      url: "https://github.com/Heatbless"
+    #- name: Discord
+    #  url: "https://github.com/Heatbless"
 
   analytics:
     google:
