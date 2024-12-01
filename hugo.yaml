@@ -66,11 +66,11 @@ params:
     imageTitle: profile
     buttons:
       - name: Posts
-        url: posts
+        url: Posts
       - name: About
-        url: about
+        url: About
       - name: Projects
-        url: project
+        url: Project
 
   # home-info mode
   homeInfoParams:
@@ -120,15 +120,15 @@ menu:
   main:
     - identifier: Posts 
       name: Posts
-      url: /posts/
+      url: /Posts/
       weight: 1
     - identifier: About
       name: About
-      url: /about/
+      url: /About/
       weight: 10
     - identifier: Project
       name: Projects
-      url: /projects/
+      url: /Projects/
       weight: 20
     - identifier: A Website
       name: Home
