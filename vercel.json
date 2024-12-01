@@ -1,11 +1,3 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/hugo",
-      "config": {
-        "hugoVersion": "latest"
-      }
-    }
-  ]
+  "version": 2
 }
