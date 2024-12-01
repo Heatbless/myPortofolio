@@ -14,6 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  homepage: true
   title: A Website
   description: "A simple Portofolio Website"
   keywords: [Blog, Portfolio, PaperMod]
