@@ -66,11 +66,11 @@ params:
     imageTitle: profile
     buttons:
       - name: Posts
-        url: Posts
+        url: posts
       - name: About
-        url: About
+        url: about
       - name: Projects
-        url: Project
+        url: project
 
   # home-info mode
   homeInfoParams:
@@ -80,8 +80,8 @@ params:
   socialIcons:
     - name: LinkedIn
       url: "https://www.linkedin.com/in/mickhael-niklas-7398912b2/"
-    - name: YouTube
-      url: "https://youtube.com/@heatbless"
+    - name: Instagram
+      url: "https://instagram.com/mickhael04"
     - name: github
       url: "https://github.com/Heatbless"
     #- name: Discord
@@ -120,15 +120,15 @@ menu:
   main:
     - identifier: Posts 
       name: Posts
-      url: /Posts/
+      url: /posts/
       weight: 1
     - identifier: About
       name: About
-      url: /About/
+      url: /about/
       weight: 10
     - identifier: Project
       name: Projects
-      url: /Projects/
+      url: /projects/
       weight: 20
     - identifier: A Website
       name: Home

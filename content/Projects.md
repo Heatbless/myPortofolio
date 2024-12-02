@@ -1,6 +1,6 @@
 ---
 title: "Project"
 layout: "Project"
-url: "/Projects/"
+url: "/projects/"
 summary: My Projects
 ---
