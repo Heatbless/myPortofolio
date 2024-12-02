@@ -18,7 +18,7 @@ params:
   title: Mickhael Niklas
   description: "A simple Portofolio Website"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Mickhael
+  # author: Mickhael
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
