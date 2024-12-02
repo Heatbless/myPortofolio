@@ -1,6 +1,6 @@
 baseURL: https://mickhaeln-portofolio.vercel.app/
 languageCode: en-us
-title: A Website
+title: Mickhael Niklas
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   homepage: true
-  title: A Website
+  title: Mickhael Niklas
   description: "A simple Portofolio Website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Mickhael
@@ -30,7 +30,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true # Shows the number of words in pages
+  ShowWordCount: false # Shows the number of words in pages
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -74,8 +74,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello World"
-    Content: "This is my first Website!"
+    Title: "Hello"
+    Content: "This is my first Website"
 
   socialIcons:
     - name: LinkedIn
