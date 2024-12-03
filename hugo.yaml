@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Mickhael Niklas
     subtitle: "Welcome to my Portofolio Website"
-    imageUrl: "https://raw.githubusercontent.com/Heatbless/myPortofolio/refs/heads/master/assets/images/profile.png"
+    imageUrl: ./assets/images/profile.png
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile
