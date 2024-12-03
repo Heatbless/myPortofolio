@@ -70,7 +70,7 @@ params:
       - name: About
         url: about
       - name: Projects
-        url: project
+        url: projects
 
   # home-info mode
   homeInfoParams:
