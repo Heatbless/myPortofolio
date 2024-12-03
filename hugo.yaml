@@ -29,7 +29,7 @@ params:
   ShowShareButtons: false # disables share button at the end of the page
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: false # Shows the number of words in pages
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
@@ -74,8 +74,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello"
-    Content: "This is my first Website"
+    Title: "Mickhael Niklas Portofolio Website"
+    Content: "A portofolio website"
 
   socialIcons:
     - name: LinkedIn
