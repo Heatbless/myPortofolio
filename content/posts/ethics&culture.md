@@ -27,7 +27,7 @@ cover:
 ShowToc: true
 TocOpen: true
 ---
-## [Pengenalan Diri](../../About/)
+## [Pengenalan Diri](../../about/)
 Saya **Mickhael Niklas** adalah seorang mahasiswa Informasi Teknologi dari Universitas Pradita dan juga salah satu anggota yang menganalisa [Etika Bisnis dan Moral Terkait Sistem Monetisasi Game Gacha](https://web-blog-etika-budaya-gacha-game.vercel.app/).
 
 ## Pengenalan Tentang Penelitian ini
