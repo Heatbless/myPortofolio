@@ -1,5 +1,5 @@
 ---
 title: "There's currently no project"
-summary: 
+hideSummary: false
 ---
 I haven't made any projects so far, stay tuned

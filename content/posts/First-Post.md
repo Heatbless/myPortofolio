@@ -13,7 +13,6 @@ description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -28,6 +27,8 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 ---
 
 Hello, my name is Mickhael, and this is my First post.
